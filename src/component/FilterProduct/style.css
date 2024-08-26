@@ -1,0 +1,9 @@
+.filterProduct {
+  .flex-2 {
+    width: 25%;
+    position: sticky;
+  }
+  .flex-3 {
+    width: 75%;
+  }
+}
